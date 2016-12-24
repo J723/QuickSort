@@ -1,0 +1,18 @@
+C:\Users\Utente\Desktop\esercizio 3.2\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\Utente\Desktop\esercizio 3.2\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Utente\Desktop\esercizio 3.2\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Utente\Desktop\esercizio 3.2\QuickSort\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Utente\Desktop\esercizio 3.2\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\Utente\Desktop\esercizio 3.2\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
+C:\Users\Linguistico\Desktop\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\Linguistico\Desktop\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\Linguistico\Desktop\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
+C:\Users\Linguistico\Desktop\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Linguistico\Desktop\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Linguistico\Desktop\QuickSort\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+D:\scuola\informatica\programmi c#\Algoritmi ricorsivi\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+D:\scuola\informatica\programmi c#\Algoritmi ricorsivi\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+D:\scuola\informatica\programmi c#\Algoritmi ricorsivi\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
+D:\scuola\informatica\programmi c#\Algoritmi ricorsivi\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+D:\scuola\informatica\programmi c#\Algoritmi ricorsivi\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+D:\scuola\informatica\programmi c#\Algoritmi ricorsivi\QuickSort\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
