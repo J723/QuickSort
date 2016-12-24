@@ -1,0 +1,21 @@
+C:\Users\Asus-Tablet\Desktop\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+E:\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+E:\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+E:\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+E:\QuickSort\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+E:\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+E:\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
+F:\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+F:\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+F:\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
+C:\Users\Asus-Tablet\Desktop\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\Asus-Tablet\Desktop\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
+C:\Users\Asus-Tablet\Desktop\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\Asus-Tablet\Desktop\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Asus-Tablet\Desktop\QuickSort\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\juoli\Desktop\QuickSort Berzi-Giudici-Olivato\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\juoli\Desktop\QuickSort Berzi-Giudici-Olivato\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\juoli\Desktop\QuickSort Berzi-Giudici-Olivato\QuickSort\obj\Debug\QuickSort.pdb
+C:\Users\juoli\Desktop\QuickSort Berzi-Giudici-Olivato\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\juoli\Desktop\QuickSort Berzi-Giudici-Olivato\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\juoli\Desktop\QuickSort Berzi-Giudici-Olivato\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
